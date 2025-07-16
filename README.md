@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m Amirhosein
 - 👀 I’m interested in Backend Development and Devops
-- 🌱 I’m currently learning RestFramework and Django Channels 
+- 🌱 I’m currently learning RestFramework and fast api
 - 💞️ I’m looking to collaborate on open source DRF project
 
 
