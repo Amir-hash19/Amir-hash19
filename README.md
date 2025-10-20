@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m Amirhosein
 - 👀 I’m interested in Backend Development and Devops
-- 🌱 I’m currently learning RestFramework and fast api
+- 🌱 have good knowledge about RestFramework and fast api
 - 💞️ I’m looking to collaborate on open source DRF project
 
 
@@ -49,6 +49,10 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirhosein.hydri1381@email.com)
 
 ---
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-hash19&layout=compact&theme=tokyonight)
+
 
 <!-- Footer GIF -->
 ![Footer Banner](https://camo.githubusercontent.com/f80fa9ea36938f6ad3c7682d4ade383aa16949bc7a294c64713549a3977d1c24/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d39302673656374696f6e3d666f6f746572)
