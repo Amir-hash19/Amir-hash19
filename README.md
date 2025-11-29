@@ -1,31 +1,30 @@
 ![Header](https://camo.githubusercontent.com/5ee0a346122b8ee6fe38ee64eeb634f277ba7de81b485ed5cb971c61138902c8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d39302673656374696f6e3d686561646572)
 
 ![Frustrated Programmer](https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif)
-&theme=dark
 
 
 
 class Amir:
     def __init__(self):
         self.location = "Tehran, Iran"
-        self.role = "Backend-End Developer"
-        self.currentFocus = "Building Strong Back-end servies, Scable and expandable System"
-        self.learning = ["Python 3.14", "Design pattern", "Web Performance"]
+        self.role = "Backend Developer"
+        self.currentFocus = "Building strong backend services and scalable, extensible systems"
+        self.learning = ["Python 3.14", "Design Patterns", "Web Performance"]
         self.interests = ["Clean Code", "Technologies", "Animals", "Robotics"]
 
     def story(self):
         return (
-    "I started my programming journey at the age of 21, driven by a simple curiosity "
-    "to understand how software really works under the hood. That curiosity turned "
-    "into a long-term commitment, and my entire path has been fully self-taught. "
-    "From learning core backend fundamentals to building scalable APIs and real-world "
-    "server-side systems, I've shaped my career by consistently solving problems, "
-    "experimenting, and pushing myself beyond tutorials. Today, I design and develop "
-    "backend architectures that are reliable, efficient, and built to scale."
-)
+            "I started my programming journey at the age of 21, driven by a simple curiosity "
+            "to understand how software really works under the hood. That curiosity turned "
+            "into a long-term commitment, and my entire path has been fully self-taught. "
+            "From learning core backend fundamentals to building scalable APIs and real-world "
+            "server-side systems, I've shaped my career by consistently solving problems, "
+            "experimenting, and pushing myself beyond tutorials. Today, I design and develop "
+            "backend architectures that are reliable, efficient, and built to scale."
+        )
 
-  
-amir = Amir()
+
+
 
 
 
