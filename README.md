@@ -71,9 +71,8 @@ class Amir:
 
 
 
-![Amirhosein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir-hash19&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Amir-hash19&theme=radical)
-![Snake animation](https://raw.githubusercontent.com/Amir-hash19/Amir-hash19/output/github-contribution-grid-snake.svg)
+
+![Amir-hash19's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amir-hash19&show_icons=true&theme=darcula&hide_border=true&rank_icon=circle)
 
 
 
