@@ -1,14 +1,15 @@
 ![Header](https://camo.githubusercontent.com/5ee0a346122b8ee6fe38ee64eeb634f277ba7de81b485ed5cb971c61138902c8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d39302673656374696f6e3d686561646572)
 
 ![Frustrated Programmer](https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif)
+&theme=dark
 
 
 
 
 - 👋 Hi, I’m Amirhosein
 - 👀 I’m interested in Backend Development and Devops
-- 🌱 have good knowledge about RestFramework and fast api
-- 💞️ I’m looking to collaborate on open source DRF project
+- 🌱 have good knowledge about RestFramework, fast api and telegram api
+- 💞️ I’m looking to collaborate on open source DRF project and fastapi projects
 
 
 💻 Tech Stack
@@ -43,16 +44,22 @@
 
 ---
 
+## 📦 Project Details
+
+| 💊 [Kelaasor](#) | 📝 [Blog_manager](#) |
+|------------------|------------------|
+| **BackEnd restful API Educational Platform** | **Blog Management Platform** |
+|A feature-rich Educational platform project ... |A Complete Backend servies... |
+| **Tech Stack:** django, RestFrameWork, Celery, Simple-JWT, postgreSQL | **Tech Stack:** FastApi, PostgreSQL, Simple-JWt, celery|
+| [View Code](https://github.com/Amir-hash19/Final_Project.v2-DRF.git) •| [View Code](https://github.com/Amir-hash19/Weblog_manager.FastApi.git) |
+
+
 ## 🤝🏻 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirykta2002)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirhosein.hydri1381@email.com)
 
 ---
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-hash19&layout=compact&theme=tokyonight)
-
 
 <!-- Footer GIF -->
 ![Footer Banner](https://camo.githubusercontent.com/f80fa9ea36938f6ad3c7682d4ade383aa16949bc7a294c64713549a3977d1c24/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d39302673656374696f6e3d666f6f746572)
