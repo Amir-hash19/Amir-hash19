@@ -58,6 +58,9 @@ class Amir:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
+![Amir-hash19's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amir-hash19&theme=gruvbox)
+![Amir-hash19's GitHub Rank](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amir-hash19&theme=gruvbox)
+
 
 ## 📦 Project Details
 
@@ -66,12 +69,8 @@ class Amir:
 | **BackEnd restful API Educational Platform** | **Blog Management Platform** |
 |A feature-rich Educational platform project ... |A Complete Backend servies... |
 | **Tech Stack:** django, RestFrameWork, Celery..| **Tech Stack:** FastApi, PostgreSQL...|
-| [View Code](https://github.com/Amir-hash19/Final_Project.v2-DRF.git) •| [View Code](https://github.com/Amir-hash19/Weblog_manager.FastApi.git) |
+| [View Code](https://github.com/Amir-hash19/Final_Project.v2-DRF.git) | [View Code](https://github.com/Amir-hash19/Weblog_manager.FastApi.git) |
 
-
-
-![Amir-hash19's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amir-hash19&theme=gruvbox)
-![Amir-hash19's GitHub Rank](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amir-hash19&theme=gruvbox)
 
 ## 🤝🏻 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirykta2002)
