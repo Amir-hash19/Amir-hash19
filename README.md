@@ -3,7 +3,7 @@
 ![Frustrated Programmer](https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif)
 
 
-
+‍‍‍```python
 class Amir:
     def __init__(self):
         self.location = "Tehran, Iran"
@@ -22,7 +22,7 @@ class Amir:
             "experimenting, and pushing myself beyond tutorials. Today, I design and develop "
             "backend architectures that are reliable, efficient, and built to scale."
         )
-
+```
 
 
 
