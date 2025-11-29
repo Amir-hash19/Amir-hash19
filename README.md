@@ -71,9 +71,7 @@ class Amir:
 
 
 
-
-![Amir-hash19's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amir-hash19&show_icons=true&theme=darcula&hide_border=true&rank_icon=circle)
-
+![Amir-hash19's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amir-hash19&theme=gruvbox)
 
 
 ## 🤝🏻 Connect with Me
