@@ -5,11 +5,28 @@
 
 
 
+class Amir:
+    def __init__(self):
+        self.location = "Tehran, Iran"
+        self.role = "Backend-End Developer"
+        self.currentFocus = "Building Strong Back-end servies, Scable and expandable System"
+        self.learning = ["Python 3.14", "Design pattern", "Web Performance"]
+        self.interests = ["Clean Code", "Technologies", "Animals", "Robotics"]
 
-- 👋 Hi, I’m Amirhosein
-- 👀 I’m interested in Backend Development and Devops
-- 🌱 have good knowledge about RestFramework, fast api and telegram api
-- 💞️ I’m looking to collaborate on open source DRF project and fastapi projects
+    def story(self):
+        return (
+    "I started my programming journey at the age of 21, driven by a simple curiosity "
+    "to understand how software really works under the hood. That curiosity turned "
+    "into a long-term commitment, and my entire path has been fully self-taught. "
+    "From learning core backend fundamentals to building scalable APIs and real-world "
+    "server-side systems, I've shaped my career by consistently solving problems, "
+    "experimenting, and pushing myself beyond tutorials. Today, I design and develop "
+    "backend architectures that are reliable, efficient, and built to scale."
+)
+
+  
+amir = Amir()
+
 
 
 💻 Tech Stack
@@ -52,6 +69,12 @@
 |A feature-rich Educational platform project ... |A Complete Backend servies... |
 | **Tech Stack:** django, RestFrameWork, Celery, Simple-JWT, postgreSQL | **Tech Stack:** FastApi, PostgreSQL, Simple-JWt, celery|
 | [View Code](https://github.com/Amir-hash19/Final_Project.v2-DRF.git) •| [View Code](https://github.com/Amir-hash19/Weblog_manager.FastApi.git) |
+
+![Amirhosein's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 ## 🤝🏻 Connect with Me
