@@ -64,7 +64,7 @@ class Amir:
 
 ## 📦 Project Details
 
-| 💊 [Kelaasor](#) | 📝 [Blog_manager](#) |
+| 📚 [Kelaasor] | ✍️ [Blog Manager] |
 |------------------|------------------|
 | **BackEnd restful API Educational Platform** | **Blog Management Platform** |
 |A feature-rich Educational platform project ... |A Complete Backend servies... |
