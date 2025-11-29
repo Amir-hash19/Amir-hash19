@@ -69,9 +69,9 @@ class Amir:
 | **Tech Stack:** django, RestFrameWork, Celery, Simple-JWT, postgreSQL | **Tech Stack:** FastApi, PostgreSQL, Simple-JWt, celery|
 | [View Code](https://github.com/Amir-hash19/Final_Project.v2-DRF.git) •| [View Code](https://github.com/Amir-hash19/Weblog_manager.FastApi.git) |
 
-![Amirhosein's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Amirhosein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir-hash19&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Amir-hash19&theme=radical)
+![Snake animation](https://github.com/Amir-hash19/Amir-hash19/blob/output/github-contribution-grid-snake.svg)
 
 
 
