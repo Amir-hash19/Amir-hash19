@@ -22,7 +22,6 @@ class Amir:
             "experimenting, and pushing myself beyond tutorials. Today, I design and develop "
             "backend architectures that are reliable, efficient, and built to scale."
         )
-```
 
 
 
