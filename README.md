@@ -72,6 +72,7 @@ class Amir:
 
 
 ![Amir-hash19's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amir-hash19&theme=gruvbox)
+![Amir-hash19's GitHub Rank](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amir-hash19&theme=gruvbox)
 
 
 ## 🤝🏻 Connect with Me
