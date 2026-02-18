@@ -1,4 +1,6 @@
-![Header](https://img.shields.io/badge/My%20Project-Your%20Title-blue)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Your%20Name&fontSize=50" />
+</div>
 
 ![Frustrated Programmer](https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif)
 
@@ -80,4 +82,6 @@ class Amir:
 ---
 
 <!-- Footer GIF -->
-![Header](https://img.shields.io/badge/My%20Project-Your%20Title-blue)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Your%20Name&fontSize=50" />
+</div>
