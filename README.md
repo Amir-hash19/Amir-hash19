@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Your%20Name&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Amirhosein%20&fontSize=50" />
 </div>
 
 ![Frustrated Programmer](https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif)
@@ -83,5 +83,5 @@ class Amir:
 
 <!-- Footer GIF -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Your%20Name&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40" />
 </div>
