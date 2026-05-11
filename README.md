@@ -67,20 +67,34 @@ class Amir:
 
 
 
+<div align="center">
+
 ## 📦 Project Details
 
-| 📚 [Kelaasor] | ✍️ [Blog Manager] |
-|------------------|------------------|
-| **BackEnd restful API Educational Platform** | **Blog Management Platform** |
-|A feature-rich Educational platform project ... |A Complete Backend servies... |
-| **Tech Stack:** django, RestFrameWork, Celery..| **Tech Stack:** FastApi, PostgreSQL...|
-| [View Code](https://github.com/Amir-hash19/Final_Project.v2-DRF.git) | [View Code](https://github.com/Amir-hash19/Weblog_manager.FastApi.git) |
+### 📚 Kelaasor
+**BackEnd restful API Educational Platform**  
+A feature-rich Educational platform project ...  
+**Tech Stack:** Django, REST Framework, Celery, Redis, PostgreSQL  
+[🔗 View Code](https://github.com/Amir-hash19/Final_Project.v2-DRF.git)
+
+<br>
+
+### ✍️ Blog Manager
+**Blog Management Platform**  
+A Complete Backend services ...  
+**Tech Stack:** FastAPI, PostgreSQL, SQLAlchemy  
+[🔗 View Code](https://github.com/Amir-hash19/Weblog_manager.FastApi.git)
+
+</div>
 
 <div align="center">
+
 ## 🤝🏻 Connect with Me
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirykta2002)
-  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirhosein.hydri1381@email.com)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]    (https://t.me/[https://t.me/Amirhhedari])
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirykta2002)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirhosein.hydri1381@email.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Amirhhedari)
+
 </div>
 ---
 
