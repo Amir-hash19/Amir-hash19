@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Amirhosein%20&fontSize=50" />
 </div>
 
-![Frustrated Programmer](https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif)
+<div align="center">
+  <img src="آدرس_جدید_گیف_شما.gif" alt="Frustrated Programmer" />
+</div>
 
 ```python
 class Amir:
