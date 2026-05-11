@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="آدرس_جدید_گیف_شما.gif" alt="Frustrated Programmer" />
+  <img src="https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif" alt="Frustrated Programmer" />
 </div>
 
 ```python
