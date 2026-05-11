@@ -65,9 +65,6 @@ class Amir:
 
 </div>
 
----
-![Amir-hash19's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amir-hash19&theme=gruvbox)
-![Amir-hash19's GitHub Rank](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amir-hash19&theme=gruvbox)
 
 
 ## 📦 Project Details
@@ -79,12 +76,12 @@ class Amir:
 | **Tech Stack:** django, RestFrameWork, Celery..| **Tech Stack:** FastApi, PostgreSQL...|
 | [View Code](https://github.com/Amir-hash19/Final_Project.v2-DRF.git) | [View Code](https://github.com/Amir-hash19/Weblog_manager.FastApi.git) |
 
-
+<div align="center">
 ## 🤝🏻 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirykta2002)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirhosein.hydri1381@email.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/[https://t.me/Amirhhedari])
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirykta2002)
+  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirhosein.hydri1381@email.com)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]    (https://t.me/[https://t.me/Amirhhedari])
+</div>
 ---
 
 <!-- Footer GIF -->
