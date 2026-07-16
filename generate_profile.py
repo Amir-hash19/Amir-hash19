@@ -42,10 +42,10 @@ INFO = [
     ("__blank__", "", ""),
     ("__section__", "~/projects", ""),
 
-    ("Storage Manager", "Event-driven storage service with Clean Architecture", "warn"),
+    ("S.T Manager", "Event-driven storage service with Clean Architecture", "warn"),
     ("", "MinIO · Django · DRF · Celery · Redis · PostgreSQL · Docker", "muted"),
     ("", "3 independent apps, designed for future microservices", "muted"),
-    ("Education Admin", "Education management platform · Bootcamps · Tickets · Scheduling", "warn"),
+    ("Edu Admin", "Education management platform · Bootcamps · Tickets · Scheduling", "warn"),
     ("", "Django · DRF · PostgreSQL · Celery · Redis · RabbitMQ", "muted"),
     ("", "JWT Authentication · OTP Login · Modular architecture", "muted"),
     
