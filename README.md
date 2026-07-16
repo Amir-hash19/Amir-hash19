@@ -1,32 +1,11 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Amirhosein%20&fontSize=50" />
-</div>
 
-<div align="center">
-  <img src="https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif" alt="Frustrated Programmer" />
-</div>
-
-```python
-class Amir:
-    def __init__(self):
-        self.location = "Tehran, Iran"
-        self.role = "Backend Developer"
-        self.currentFocus = "Building strong backend services and scalable, extensible systems"
-        self.learning = ["Python 3.14", "Design Patterns", "Web Performance"]
-        self.interests = ["Clean Code", "Technologies", "Animals", "Robotics"]
-
-    def story(self):
-        return (
-            "I started my programming journey at the age of 21, driven by a simple curiosity "
-            "to understand how software really works under the hood. That curiosity turned "
-            "into a long-term commitment, and my entire path has been fully self-taught. "
-            "From learning core backend fundamentals to building scalable APIs and real-world "
-            "server-side systems, I've shaped my career by consistently solving problems, "
-            "experimenting, and pushing myself beyond tutorials. Today, I design and develop "
-            "backend architectures that are reliable, efficient, and built to scale."
-        )
-```
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img alt="Profile" src="./dark.svg">
+  </picture>
+</p>
 
 
 
@@ -67,40 +46,3 @@ class Amir:
 
 </div>
 
-
-
-<div align="center">
-
-## 📦 Project Details
-
-### 📚 Kelaasor
-**BackEnd restful API Educational Platform**  
-A feature-rich Educational platform project ...  
-**Tech Stack:** Django, REST Framework, Celery, Redis, PostgreSQL  
-[🔗 View Code](https://github.com/Amir-hash19/Final_Project.v2-DRF.git)
-
-<br>
-
-### ✍️ Blog Manager
-**Blog Management Platform**  
-A Complete Backend services ...  
-**Tech Stack:** FastAPI, PostgreSQL, SQLAlchemy  
-[🔗 View Code](https://github.com/Amir-hash19/Weblog_manager.FastApi.git)
-
-</div>
-
-<div align="center">
-
-## 🤝🏻 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirykta2002)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirhosein.hydri1381@email.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Amirhhedari)
-
-</div>
-
-
-<!-- Footer GIF -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40" />
-</div>
