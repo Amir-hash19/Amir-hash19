@@ -35,34 +35,34 @@
 <text x="180" y="92.0" class="hdr row" style="animation-delay:0.35s">Amirhosein Heidari</text>
 <line x1="180" y1="101.5" x2="940" y2="101.5" stroke="#30363d" class="row" style="animation-delay:0.42s"/>
 <text x="180" y="117.5" class="key row" style="animation-delay:0.49s">Role</text>
-<text x="280" y="117.5" class="val row" style="animation-delay:0.49s">Backend Developer · Junior DevOps Engineer</text>
+<text x="340" y="117.5" class="val row" style="animation-delay:0.49s">Backend Developer · Junior DevOps Engineer</text>
 <text x="180" y="135.0" class="key row" style="animation-delay:0.56s">Focus</text>
-<text x="280" y="135.0" class="acc row" style="animation-delay:0.56s">Backend Systems · System Design · Architecture Design</text>
+<text x="340" y="135.0" class="acc row" style="animation-delay:0.56s">Backend Systems · System Design · Architecture Design</text>
 <text x="180" y="162.5" class="sec row" style="animation-delay:0.63s">~/stack</text>
 <text x="180" y="180.0" class="key row" style="animation-delay:0.70s">Lang</text>
-<text x="280" y="180.0" class="val row" style="animation-delay:0.70s">Python · Bash</text>
+<text x="340" y="180.0" class="val row" style="animation-delay:0.70s">Python · Bash</text>
 <text x="180" y="197.5" class="key row" style="animation-delay:0.77s">Backend</text>
-<text x="280" y="197.5" class="val row" style="animation-delay:0.77s">FastAPI · Django · Django REST Framework</text>
+<text x="340" y="197.5" class="val row" style="animation-delay:0.77s">FastAPI · Django · Django REST Framework</text>
 <text x="180" y="215.0" class="key row" style="animation-delay:0.84s">AI</text>
-<text x="280" y="215.0" class="val row" style="animation-delay:0.84s">RAG · LangChain</text>
+<text x="340" y="215.0" class="val row" style="animation-delay:0.84s">RAG · LangChain</text>
 <text x="180" y="232.5" class="key row" style="animation-delay:0.91s">DevOps</text>
-<text x="280" y="232.5" class="val row" style="animation-delay:0.91s">Docker · Kubernetes · Nginx · Linux · GitHub Actions</text>
+<text x="340" y="232.5" class="val row" style="animation-delay:0.91s">Docker · Kubernetes · Nginx · Linux · GitHub Actions</text>
 <text x="180" y="250.0" class="key row" style="animation-delay:0.98s">Data</text>
-<text x="280" y="250.0" class="val row" style="animation-delay:0.98s">PostgreSQL · Redis</text>
+<text x="340" y="250.0" class="val row" style="animation-delay:0.98s">PostgreSQL · Redis</text>
 <text x="180" y="277.5" class="sec row" style="animation-delay:1.05s">~/projects</text>
-<text x="180" y="295.0" class="key row" style="animation-delay:1.12s">Storage Manager</text>
-<text x="280" y="295.0" class="wrn row" style="animation-delay:1.12s">Event-driven storage service with Clean Architecture</text>
-<text x="280" y="312.5" class="mut row" style="animation-delay:1.19s">MinIO · Django · DRF · Celery · Redis · PostgreSQL · Docker</text>
-<text x="280" y="330.0" class="mut row" style="animation-delay:1.26s">3 independent apps, designed for future microservices</text>
-<text x="180" y="347.5" class="key row" style="animation-delay:1.33s">Education Admin</text>
-<text x="280" y="347.5" class="wrn row" style="animation-delay:1.33s">Education management platform · Bootcamps · Tickets · Scheduling</text>
-<text x="280" y="365.0" class="mut row" style="animation-delay:1.40s">Django · DRF · PostgreSQL · Celery · Redis · RabbitMQ</text>
-<text x="280" y="382.5" class="mut row" style="animation-delay:1.47s">JWT Authentication · OTP Login · Modular architecture</text>
+<text x="180" y="295.0" class="key row" style="animation-delay:1.12s">S.T Manager</text>
+<text x="340" y="295.0" class="wrn row" style="animation-delay:1.12s">Event-driven storage service with Clean Architecture</text>
+<text x="340" y="312.5" class="mut row" style="animation-delay:1.19s">MinIO · Django · DRF · Celery · Redis · PostgreSQL · Docker</text>
+<text x="340" y="330.0" class="mut row" style="animation-delay:1.26s">3 independent apps, designed for future microservices</text>
+<text x="180" y="347.5" class="key row" style="animation-delay:1.33s">Edu Admin</text>
+<text x="340" y="347.5" class="wrn row" style="animation-delay:1.33s">Education management platform · Bootcamps · Tickets · Scheduling</text>
+<text x="340" y="365.0" class="mut row" style="animation-delay:1.40s">Django · DRF · PostgreSQL · Celery · Redis · RabbitMQ</text>
+<text x="340" y="382.5" class="mut row" style="animation-delay:1.47s">JWT Authentication · OTP Login · Modular architecture</text>
 <text x="180" y="410.0" class="sec row" style="animation-delay:1.54s">~/reach</text>
 <text x="180" y="427.5" class="key row" style="animation-delay:1.61s">In</text>
-<text x="280" y="427.5" class="acc row" style="animation-delay:1.61s">linkedin.com/in/amirykta2002</text>
+<text x="340" y="427.5" class="acc row" style="animation-delay:1.61s">linkedin.com/in/amirykta2002</text>
 <text x="180" y="445.0" class="key row" style="animation-delay:1.68s">Mail</text>
-<text x="280" y="445.0" class="acc row" style="animation-delay:1.68s">amirhosein.hydri1381@gmail.com</text>
+<text x="340" y="445.0" class="acc row" style="animation-delay:1.68s">amirhosein.hydri1381@gmail.com</text>
 <text x="180" y="596" class="row" style="animation-delay:1.85s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">Open to Backend / DevOps opportunities</tspan><tspan class="cur" dx="8">█</tspan></text>
-<text x="946" y="596" class="mut" text-anchor="end">last updated 16 Jul 2026, 13:53 IST</text>
+<text x="946" y="596" class="mut" text-anchor="end">last updated 16 Jul 2026, 14:11 IST</text>
 </svg>
